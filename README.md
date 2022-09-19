@@ -26,6 +26,6 @@ The test application creates a 3-level menu with that hierarchy:
 
 The system implements the test menu twice in both techniques:
 - Interfaces
-- Delegates\
+- Delegates
 
 When the user exits the first menu, the second menu is displayed.
