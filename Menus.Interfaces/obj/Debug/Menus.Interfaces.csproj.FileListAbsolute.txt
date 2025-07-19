@@ -1,7 +1,0 @@
-C:\Users\ASUS\Documents\לימודים\Menu Management\Menus.Interfaces\bin\Debug\Menus.Interfaces.dll.config
-C:\Users\ASUS\Documents\לימודים\Menu Management\Menus.Interfaces\bin\Debug\Menus.Interfaces.dll
-C:\Users\ASUS\Documents\לימודים\Menu Management\Menus.Interfaces\bin\Debug\Menus.Interfaces.pdb
-C:\Users\ASUS\Documents\לימודים\Menu Management\Menus.Interfaces\obj\Debug\Menus.Interfaces.csproj.AssemblyReference.cache
-C:\Users\ASUS\Documents\לימודים\Menu Management\Menus.Interfaces\obj\Debug\Menus.Interfaces.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\Documents\לימודים\Menu Management\Menus.Interfaces\obj\Debug\Menus.Interfaces.dll
-C:\Users\ASUS\Documents\לימודים\Menu Management\Menus.Interfaces\obj\Debug\Menus.Interfaces.pdb
